@@ -9,5 +9,5 @@
 ### :camera: Imagens
 ### :computer: Tecnologias
 
-### Créditos
+### :memo: Créditos
 Guitarra: https://iconarchive.com/show/free-flat-sample-icons-by-thesquid.ink.html
