@@ -7,7 +7,7 @@
 </p>
 ### :camera: Imagens
 
-![](/home/kleber/markdown-readme/print-01.png)
+![](print-01.png)
 
 ### :computer: Tecnologias
 
