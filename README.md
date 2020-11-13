@@ -7,7 +7,7 @@
 </p>
 ### :camera: Imagens
 
-![](print-01.png)
+<img src="print-01.png">
 
 ### :computer: Tecnologias
 
