@@ -7,7 +7,9 @@
 </p>
 ### :camera: Imagens
 
-<img src="print-01.png">
+<p align="center">
+  <img src="print-01.png">
+</p>
 
 ### :computer: Tecnologias
 
